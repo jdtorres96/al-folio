@@ -39,7 +39,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: # your GitHub user name
-twitter_username: https://twitter.com/jdtorres96 # your Twitter handle
+twitter_username: jdtorres96 # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -57,32 +57,32 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-#blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-#blog_description: a simple whitespace theme for academics
-#permalink: /blog/:year/:title/
+blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_description: a simple whitespace theme for academics
+permalink: /blog/:year/:title/
 
 # Pagination
-#pagination:
-  #enabled: true
+pagination:
+  enabled: true
 
 # Comments
-#disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
-#collections:
-  #news:
-    #defaults:
-      #layout: post
-    #output: true
-    #permalink: /news/:path/
-  #projects:
-    #output: true
-    #permalink: /projects/:path/
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-#news_limit: 5
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -90,17 +90,17 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # Markdown and syntax highlight
 markdown: kramdown
-highlighter: rouge
-highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-    span:
-      line_numbers: false
-    block:
-      line_numbers: false
-      start_line: 1
+highlighter: pygments
+#highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+#kramdown:
+  #input: GFM
+  #syntax_highlighter_opts:
+    #css_class: 'highlight'
+    #span:
+      #line_numbers: false
+    #block:
+      #line_numbers: false
+      #start_line: 1
 
 # Includes & excludes
 include: ['_pages']
@@ -109,10 +109,11 @@ exclude: [vendor]
 # Plug-ins
 plugins:
   - jekyll-email-protect
-  - jekyll-github-metadata
-  - jekyll-paginate-v2
+  #- jekyll-github-metadata
+  #- jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll/scholar
-  - jekyll-twitter-plugin
+  #- jekyll-twitter-plugin
   - jemoji
   # - bootstrap
   # - material-sass
@@ -121,25 +122,25 @@ plugins:
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-#scholar:
+scholar:
 
- # last_name: Einstein
+  last_name: Einstein
 
-  #style: apa
-  #locale: en
+  style: apa
+  locale: en
 
-  #source: /_bibliography/
-  #bibliography: papers.bib
-  #bibliography_template: bib
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
 
-  #replace_strings: true
-  #join_strings: true
+  replace_strings: true
+  join_strings: true
 
-  #details_dir: bibliography
-  #details_layout: bibtex.html
-  #details_link: Details
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
 
-  #query: "@*"
+  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
