@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: research
+permalink: /projects/
+title: op-eds
 nav: true
 ---
 
