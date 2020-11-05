@@ -26,3 +26,5 @@ Lecture 7: Fiscal policy [slides](https://www.dropbox.com/s/nbom8t3mfwkltpw/Clas
 Lecture 8: Labor markets [slides](https://www.dropbox.com/s/s3zo4b8h8wa7sbi/Clase_8_IEC.pdf?dl=0)
 
 Lecture 9: Finance [slides](https://www.dropbox.com/s/7i45h8pvi6p4967/Clase_9_IEC.pdf?dl=0)
+
+Lecture 10: Human capital [slides](https://www.dropbox.com/s/89rpxsi03e8w9vn/Clase_10_IEC.pdf?dl=0)
