@@ -28,3 +28,5 @@ Lecture 8: Labor markets [slides](https://www.dropbox.com/s/s3zo4b8h8wa7sbi/Clas
 Lecture 9: Finance [slides](https://www.dropbox.com/s/7i45h8pvi6p4967/Clase_9_IEC.pdf?dl=0)
 
 Lecture 10: Human capital [slides](https://www.dropbox.com/s/89rpxsi03e8w9vn/Clase_10_IEC.pdf?dl=0)
+
+Lecture 11: Poverty and inequality [slides](https://www.dropbox.com/s/1ti3zctc873q98n/Clase_11_IEC.pdf?dl=0)
