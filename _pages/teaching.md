@@ -33,4 +33,4 @@ Lecture 11: Poverty and inequality [slides](https://www.dropbox.com/s/1ti3zctc87
 
 Lecture 12: Social policy [slides](https://www.dropbox.com/s/n5hw3sdlrz7my1o/Clase_12_IEC.pdf?dl=0)
 
-Final thoughts: Some unsolicited advice for young economists [slides] (https://www.dropbox.com/s/7exwn21vpuvdp9b/CNS.pdf?dl=0)
+Final thoughts: Some unsolicited advice for young economists [slides](https://www.dropbox.com/s/7exwn21vpuvdp9b/CNS.pdf?dl=0)
