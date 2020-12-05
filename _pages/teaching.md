@@ -30,3 +30,7 @@ Lecture 9: Finance [slides](https://www.dropbox.com/s/7i45h8pvi6p4967/Clase_9_IE
 Lecture 10: Human capital [slides](https://www.dropbox.com/s/89rpxsi03e8w9vn/Clase_10_IEC.pdf?dl=0)
 
 Lecture 11: Poverty and inequality [slides](https://www.dropbox.com/s/1ti3zctc873q98n/Clase_11_IEC.pdf?dl=0)
+
+Lecture 12: Social policy [slides](https://www.dropbox.com/s/n5hw3sdlrz7my1o/Clase_12_IEC.pdf?dl=0)
+
+Final thoughts: Some unsolicited advice for young economists [slides] (https://www.dropbox.com/s/7exwn21vpuvdp9b/CNS.pdf?dl=0)
