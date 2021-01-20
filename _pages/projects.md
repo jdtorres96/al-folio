@@ -4,10 +4,9 @@ permalink: /projects/
 title: op-eds+
 nav: true
 ---
-
-## Diario la República
+ 
 <details>
-  <summary>Links</summary>
+  <summary>Diario la República</summary>
 
   <br/>
   
