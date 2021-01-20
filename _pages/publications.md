@@ -18,8 +18,10 @@ nav: true
 
 
 ## Work in progress
-Shaping inequality? Agrarian institutions, property rights and landlord empowerment (Master's thesis)
+State Building and Fiscal Capacity in the Late Spanish Empire (with Giorgio Chiovelli, Leopoldo Fergusson, Luis Martinez, and Felipe Valencia)
+
+Shaping inequality? Property rights, landed elites and public lands in Colombia
 
 Skin in the game: labor shocks and redistributive preferences in Colombia
 
-Putting the eggs in multiple baskets: export promotion in Colombia during the 1960s.
+Putting the eggs in multiple baskets: export promotion in Colombia during the 1960s
