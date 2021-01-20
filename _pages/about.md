@@ -22,5 +22,5 @@ I hold an M.A. in economics from Universidad de los Andes and a B.A. in economic
 
 My email is jd.torres15@uniandes.edu.co
 
-[Here](https://www.dropbox.com/s/s9cjbm01hrwz06v/CV.pdf?dl=0) is my CV in english
+[Here](https://www.dropbox.com/s/0u4zqpgifmkfir8/CV.pdf?dl=0) is my CV in english
 
