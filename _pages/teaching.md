@@ -6,8 +6,9 @@ nav: true
 ---
 
 ## As teaching assistant
+**Introduction to Colombian Economics** (Universidad de los Andes - 2020).
 <details>
-  <summary>**Introduction to Colombian Economics** (Universidad de los Andes - 2020). Professors Mauricio Cárdenas and Luis Fernando Mejía</summary>
+  <summary>Slides</summary>
 
   Lecture 1: What do economists know? / Production and income [slides](https://www.dropbox.com/s/9bin7swkk5zq6xk/Clase_1_IEC.pdf?dl=0)
 
