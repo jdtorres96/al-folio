@@ -12,7 +12,7 @@ nav: true
 
   <br/>
   
-  Lecture 1: What do economists know? / Production and income [slides](https://www.dropbox.com/s/9bin7swkk5zq6xk/Clase_1_IEC.pdf?dl=0)
+  Lecture 1: What do economists know? / Production and income <a href="https://www.dropbox.com/s/9bin7swkk5zq6xk/Clase_1_IEC.pdf?dl=0)">[slides]</a>
 
   Lecture 2: Economic growth and productivity [slides](https://www.dropbox.com/s/qacp8imw7ol8d9t/Clase_2_IEC.pdf?dl=0)
 
