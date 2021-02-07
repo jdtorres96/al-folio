@@ -14,7 +14,7 @@ nav: true
   
   Lecture 1: What do economists know? / Production and income <a href="https://www.dropbox.com/s/9bin7swkk5zq6xk/Clase_1_IEC.pdf?dl=0">[slides]</a>
   <br/>
-  Lecture 2: Economic growth and productivity <a href="https://www.dropbox.com/s/qacp8imw7ol8d9t/Clase_2_IEC.pdf?dl=0">[slides]</a>
+  Lecture 2: Economic growth and productivity <a href="https://www.dropbox.com/s/x24d8v0wm1jwf4n/Clase_2_IEC.pdf?dl=0">[slides]</a>
   <br/>
   Lecture 3: Money, prices and the nominal exchange rate <a href="https://www.dropbox.com/s/b56cb9s7ohq0xsp/Clase_3_IEC.pdf?dl=0">[slides]</a>
   <br/>
