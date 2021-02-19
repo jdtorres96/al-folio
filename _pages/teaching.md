@@ -22,7 +22,7 @@ nav: true
   <br/>
   Lecture 5: Trade policy and dutch disease <a href="https://www.dropbox.com/s/ci0nytwhak01bxi/Clase_5_IEC.pdf?dl=0">[slides]</a>
   <br/>
-  Lecture 6: State capacity, institutions and conflict <a href="https://www.dropbox.com/s/fnigjlhiuco47hy/Clase_6_IEC.pdf?dl=0">[slides]</a>
+  Lecture 6: State capacity, institutions and conflict <a href="https://www.dropbox.com/s/qk8evdii7l8t411/Clase_6_IEC.pdf?dl=0">[slides]</a>
   <br/>
   Lecture 7: Fiscal policy <a href="https://www.dropbox.com/s/nbom8t3mfwkltpw/Clase_7_IEC.pdf?dl=0">[slides]</a>
   <br/>
