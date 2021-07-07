@@ -6,7 +6,7 @@ nav: true
 ---
  
 <details>
-  <summary>My opeds in Diario la República</summary>
+  <summary>Some opeds in Diario la República</summary>
 
   <br/>
   
@@ -27,7 +27,6 @@ nav: true
   
 </details>
 
-***
 
 My graduation speech [[link]](https://www.youtube.com/watch?v=VtzU2pmOYhQ)
 
