@@ -6,7 +6,7 @@ nav: true
 ---
 
 ## As teaching assistant
-**Introduction to Colombian Economics** (Universidad de los Andes - 2020).
+**Introduction to Colombian Economics** (Universidad de los Andes - 2020/2021).
 <details>
   <summary>Slides</summary>
 
