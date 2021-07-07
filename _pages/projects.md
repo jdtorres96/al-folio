@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: other
+title: misc
 nav: true
 ---
  
