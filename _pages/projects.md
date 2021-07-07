@@ -32,8 +32,6 @@ nav: true
 My graduation speech [[link]](https://www.youtube.com/watch?v=VtzU2pmOYhQ)
 
 
-***
-
 My thoughts on how to repair the social contract in Colombia [[link]](https://www.dropbox.com/s/yigdbg906ifcekg/social_contract.pdf?dl=0)
 
 
