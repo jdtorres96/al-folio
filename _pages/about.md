@@ -20,5 +20,5 @@ I hold an M.A. in economics from Universidad de los Andes and a B.A. in economic
 
 My email is jdtorres@stanford.edu
 
-[Here](https://www.dropbox.com/s/0u4zqpgifmkfir8/CV.pdf?dl=0) is my CV
+[Here](https://www.dropbox.com/s/f5av8nlpdn82bdv/CV.pdf?dl=0) is my CV
 
