@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <h2>Juan David Torres</h2>
+title: <h2>juan david torres</h2>
 permalink: /
 description: 
 
