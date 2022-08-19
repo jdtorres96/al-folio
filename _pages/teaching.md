@@ -5,7 +5,7 @@ title: teaching
 nav: true
 ---
 
-## As teaching assistant
+## as teaching assistant
 **Introduction to Colombian Economics** (Universidad de los Andes - 2020/2021).
 <details>
   <summary>Slides</summary>
