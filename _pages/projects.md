@@ -42,7 +42,7 @@ nav: true
   <br/>
   La pereza de vivir en democracia <a href="https://blogs.eltiempo.com/palabras-mass/2017/07/08/la-pereza-de-vivir-en-democracia/?fbclid=IwAR1aE6Kk1D4cwVq5DPFkMFyQDhJ5XZqdMuZU1iRHYFlEzLmpEelya0slAyA">[link]</a>
   <br/>
-  Política monetaria: con el pecado y sin el género <a href="https://blogs.eltiempo.com/palabras-mass/2017/05/25/politica-monetaria-con-el-pecado-y-sin-el-genero/?fbclid=IwAR0W5XOUF5Kn2W3Rpre92Y-pwRRbda9RAJhy8zctZIrGeaRc3zszbdOGX_w">[link]</a>
+  Politica monetaria: con el pecado y sin el género <a href="https://blogs.eltiempo.com/palabras-mass/2017/05/25/politica-monetaria-con-el-pecado-y-sin-el-genero/?fbclid=IwAR0W5XOUF5Kn2W3Rpre92Y-pwRRbda9RAJhy8zctZIrGeaRc3zszbdOGX_w">[link]</a>
   <br/>
   
 </details>
